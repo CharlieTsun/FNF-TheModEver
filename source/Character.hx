@@ -31,6 +31,7 @@ typedef CharacterFile = {
 	var camera_position:Array<Float>;
 
 	var flip_x:Bool;
+	var is_player:Bool;
 	var no_antialiasing:Bool;
 	var healthbar_colors:Array<Int>;
 }
@@ -199,6 +200,7 @@ class Character extends FlxSprite
 				healthIcon = json.healthicon;
 				singDuration = json.sing_duration;
 				flipX = !!json.flip_x;
+				isPlayer = !!json.is_player;
 				if(json.no_antialiasing) {
 					antialiasing = false;
 					noAntialiasing = true;

@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				0
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ParrotLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-11
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ParrotDown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				27
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ParrotUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				-10
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ParrotRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ParrotIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Parrot Squid Game Assets",
+	"position": [
+		0,
+		0
+	],
+	"is_player": false,
+	"healthicon": "parrot",
+	"flip_x": false,
+	"healthbar_colors": [
+		23,
+		255,
+		127
+	],
+	"camera_position": [
+		-220,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

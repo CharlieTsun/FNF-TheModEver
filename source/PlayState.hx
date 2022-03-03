@@ -433,6 +433,20 @@ class PlayState extends MusicBeatState
 					add(stageCurtains);
 				}
 
+			case 'city': //Sasha
+			    var cityBg:BGSprite = new BGSprite('stage/citybg', -400, -300, 1, 1);
+				cityBg.setGraphicSize(Std.int(cityBg.width * 1.1));
+				cityBg.updateHitbox();
+				add(cityBg);
+
+			case 'hypixel': //hypixel
+			    var cityBg:BGSprite = new BGSprite('stage/gamesbg', -800, 0, 1, 1);
+				cityBg.setGraphicSize(Std.int(cityBg.width * 1.1));
+				cityBg.updateHitbox();
+				add(cityBg);
+
+			case 'void': //GF
+
 			case 'spooky': //Week 2
 				if(!ClientPrefs.lowQuality) {
 					halloweenBG = new BGSprite('halloween_bg', -200, -100, ['halloweem bg0', 'halloweem bg lightning strike']);
@@ -692,8 +706,16 @@ class PlayState extends MusicBeatState
 		if (curStage == 'limo')
 			add(limo);
 
-		add(dadGroup);
-		add(boyfriendGroup);
+		if (curStage =='hypixel')
+		{
+			add(boyfriendGroup);
+			add(dadGroup);
+		}
+		else
+		{
+			add(dadGroup);
+			add(boyfriendGroup);
+		}
 		
 		if(curStage == 'spooky') {
 			add(halloweenWhite);
@@ -1140,6 +1162,9 @@ class PlayState extends MusicBeatState
 				case 'senpai' | 'roses' | 'thorns':
 					if(daSong == 'roses') FlxG.sound.play(Paths.sound('ANGRY'));
 					schoolIntro(doof);
+
+				case 'homophobia' | 'fazbright' | 'twiter':
+					startDialogue(dialogueJson);
 
 				default:
 					startCountdown();

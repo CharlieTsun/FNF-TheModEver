@@ -1,0 +1,156 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-125,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sasha idle"
+		},
+		{
+			"offsets": [
+				-146,
+				-95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sasha left"
+		},
+		{
+			"offsets": [
+				10,
+				-81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sasha down"
+		},
+		{
+			"offsets": [
+				-29,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sasha up"
+		},
+		{
+			"offsets": [
+				-8,
+				-127
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sasha right"
+		},
+		{
+			"offsets": [
+				147,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "sasha miss left"
+		},
+		{
+			"offsets": [
+				28,
+				-89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "sasha miss down"
+		},
+		{
+			"offsets": [
+				54,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "sasha miss up"
+		},
+		{
+			"offsets": [
+				18,
+				-118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "sasha miss right"
+		},
+		{
+			"offsets": [
+				-52,
+				-201
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "sasha body"
+		},
+		{
+			"offsets": [
+				-52,
+				-201
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "sasha body"
+		},
+		{
+			"offsets": [
+				-52,
+				-201
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "sasha body"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sasha assets",
+	"position": [
+		210,
+		70
+	],
+	"is_player": false,
+	"healthicon": "sasha",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		229,
+		109
+	],
+	"camera_position": [
+		-120,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

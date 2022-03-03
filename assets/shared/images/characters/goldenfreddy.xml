@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="goldenfreddy.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GoldenDown0000" x="10" y="10" width="900" height="900"/>
+	<SubTexture name="GoldenDown0001" x="920" y="10" width="900" height="900"/>
+	<SubTexture name="GoldenDown0002" x="1830" y="10" width="900" height="900"/>
+	<SubTexture name="GoldenDown0003" x="2740" y="10" width="900" height="900"/>
+	<SubTexture name="GoldenDown0004" x="3650" y="10" width="900" height="900"/>
+	<SubTexture name="GoldenIdle0000" x="4560" y="10" width="900" height="900"/>
+	<SubTexture name="GoldenIdle0001" x="5470" y="10" width="900" height="900"/>
+	<SubTexture name="GoldenIdle0002" x="6380" y="10" width="900" height="900"/>
+	<SubTexture name="GoldenIdle0003" x="10" y="920" width="900" height="900"/>
+	<SubTexture name="GoldenIdle0004" x="920" y="920" width="900" height="900"/>
+	<SubTexture name="GoldenIdle0005" x="1830" y="920" width="900" height="900"/>
+	<SubTexture name="GoldenIdle0006" x="2740" y="920" width="900" height="900"/>
+	<SubTexture name="GoldenIdle0007" x="3650" y="920" width="900" height="900"/>
+	<SubTexture name="GoldenIdle0008" x="4560" y="920" width="900" height="900"/>
+	<SubTexture name="GoldenLeft0000" x="5470" y="920" width="900" height="900"/>
+	<SubTexture name="GoldenLeft0001" x="6380" y="920" width="900" height="900"/>
+	<SubTexture name="GoldenLeft0002" x="10" y="1830" width="900" height="900"/>
+	<SubTexture name="GoldenLeft0003" x="920" y="1830" width="900" height="900"/>
+	<SubTexture name="GoldenLeft0004" x="1830" y="1830" width="900" height="900"/>
+	<SubTexture name="GoldenRight0000" x="2740" y="1830" width="900" height="900"/>
+	<SubTexture name="GoldenRight0001" x="3650" y="1830" width="900" height="900"/>
+	<SubTexture name="GoldenRight0002" x="4560" y="1830" width="900" height="900"/>
+	<SubTexture name="GoldenRight0003" x="5470" y="1830" width="900" height="900"/>
+	<SubTexture name="GoldenRight0004" x="6380" y="1830" width="900" height="900"/>
+	<SubTexture name="GoldenUp0000" x="10" y="2740" width="900" height="900"/>
+	<SubTexture name="GoldenUp0001" x="920" y="2740" width="900" height="900"/>
+	<SubTexture name="GoldenUp0002" x="1830" y="2740" width="900" height="900"/>
+	<SubTexture name="GoldenUp0003" x="2740" y="2740" width="900" height="900"/>
+	<SubTexture name="GoldenUp0004" x="3650" y="2740" width="900" height="900"/>
+</TextureAtlas>

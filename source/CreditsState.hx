@@ -80,6 +80,14 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			['Freddy VS Sasha'],
+			['CharlieTsun',		'charlietsun',		'Coder, Artist, Musician',						'https://twitter.com/CharlieTsun',	'EC9EF7'],
+			['Parrot',			'parrot',		'Helped coding, appears in Hypixel Games, literally my brother',					'https://www.youtube.com/c/catbrothereverything',		'F41D20'],
+			['KamilFirma',			'kamilfirma',			'Composed the original Rhythm, help with composing',				'https://gamejolt.com/@KamilFirma',			'395248'],
+			['JakeNeutron',			'jakeneutron',			'Composed the original HeartStomper',				'https://twitter.com/TheJakeneutron',			'324E87'],
+			['NardBruh & MadelynMisericorde',			'my beloved',			'you guys are going here idc what you say (also nard helped me understand what the fuck is going on with psych engine)',				'https://twitter.com/bruh_nard',			'324E87'],
+			[''],
+			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',						'https://twitter.com/Shadow_Mario_',	'444444'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',					'https://twitter.com/river_oaken',		'C30085'],

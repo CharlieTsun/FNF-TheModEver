@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		50,
+		150
+	],
+	"scale": 2.2,
+	"animations": [
+		{
+			"loop_name": "bitch",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bitch",
+			"anim": "bitch",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bored",
+			"idle_offsets": [
+				0,
+				10
+			],
+			"idle_name": "bored",
+			"anim": "bored",
+			"loop_offsets": [
+				0,
+				10
+			]
+		},
+		{
+			"loop_name": "insane",
+			"idle_offsets": [
+				26,
+				30
+			],
+			"idle_name": "insane",
+			"anim": "insane",
+			"loop_offsets": [
+				26,
+				30
+			]
+		},
+		{
+			"loop_name": "smug",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "smug",
+			"anim": "smug",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "amity portraits"
+}

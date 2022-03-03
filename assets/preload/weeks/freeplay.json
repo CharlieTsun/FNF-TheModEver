@@ -1,0 +1,71 @@
+{
+	"storyName": "extras",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "sasha",
+	"weekBefore": "sasha",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Rhythm-Cover",
+			"freddy",
+			[
+				142,
+				102,
+				75
+			]
+		],
+		[
+			"Heartstomper-Cover",
+			"sasha",
+			[
+				255,
+				229,
+				109
+			]
+		],
+		[
+			"Fazbright-Old",
+			"freddy",
+			[
+				142,
+				102,
+				75
+			]
+		],
+		[
+			"Twiter-Old",
+			"freddy",
+			[
+				142,
+				102,
+				75
+			]
+		],
+		[
+			"Entity",
+			"goldenfreddy",
+			[
+				255,
+				181,
+				0
+			]
+		],
+		[
+			"Hypixel-Games",
+			"parrot",
+			[
+				23,
+				255,
+				127
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Freeplay"
+}

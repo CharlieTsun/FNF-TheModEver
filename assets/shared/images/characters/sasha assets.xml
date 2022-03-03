@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sasha assets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sasha body0000" x="10" y="10" width="231" height="425"/>
+	<SubTexture name="sasha down0000" x="251" y="10" width="433" height="512" frameX="-4" frameY="-20" frameWidth="437" frameHeight="536"/>
+	<SubTexture name="sasha down0001" x="694" y="10" width="425" height="529" frameX="-6" frameY="-4" frameWidth="437" frameHeight="536"/>
+	<SubTexture name="sasha down0002" x="1129" y="10" width="425" height="536" frameX="0" frameY="0" frameWidth="437" frameHeight="536"/>
+	<SubTexture name="sasha down0003" x="1564" y="10" width="425" height="536" frameX="0" frameY="0" frameWidth="437" frameHeight="536"/>
+	<SubTexture name="sasha idle0000" x="1999" y="10" width="293" height="597" frameX="-4" frameY="-28" frameWidth="297" frameHeight="626"/>
+	<SubTexture name="sasha idle0001" x="2302" y="10" width="293" height="606" frameX="-4" frameY="-20" frameWidth="297" frameHeight="626"/>
+	<SubTexture name="sasha idle0002" x="2605" y="10" width="288" height="626" frameX="0" frameY="0" frameWidth="297" frameHeight="626"/>
+	<SubTexture name="sasha idle0003" x="2903" y="10" width="288" height="621" frameX="0" frameY="-5" frameWidth="297" frameHeight="626"/>
+	<SubTexture name="sasha left0000" x="3201" y="10" width="395" height="506" frameX="0" frameY="-15" frameWidth="395" frameHeight="523"/>
+	<SubTexture name="sasha left0001" x="3606" y="10" width="388" height="506" frameX="-3" frameY="-16" frameWidth="395" frameHeight="523"/>
+	<SubTexture name="sasha left0002" x="10" y="646" width="380" height="523" frameX="-7" frameY="0" frameWidth="395" frameHeight="523"/>
+	<SubTexture name="sasha miss down0000" x="251" y="10" width="433" height="512" frameX="-13" frameY="-5" frameWidth="437" frameHeight="536"/>
+	<SubTexture name="sasha miss down0001" x="400" y="646" width="446" height="516" frameX="-10" frameY="0" frameWidth="466" frameHeight="517"/>
+	<SubTexture name="sasha miss down0002" x="856" y="646" width="466" height="509" frameX="0" frameY="-7" frameWidth="466" frameHeight="517"/>
+	<SubTexture name="sasha miss left0000" x="1332" y="646" width="395" height="506" frameX="-46" frameY="0" frameWidth="445" frameHeight="509"/>
+	<SubTexture name="sasha miss left0001" x="1737" y="646" width="429" height="498" frameX="-14" frameY="-8" frameWidth="445" frameHeight="509"/>
+	<SubTexture name="sasha miss left0002" x="2176" y="646" width="445" height="489" frameX="0" frameY="-20" frameWidth="445" frameHeight="509"/>
+	<SubTexture name="sasha miss right0000" x="2631" y="646" width="429" height="501" frameX="-11" frameY="-2" frameWidth="444" frameHeight="503"/>
+	<SubTexture name="sasha miss right0001" x="3070" y="646" width="426" height="499" frameX="-9" frameY="0" frameWidth="444" frameHeight="503"/>
+	<SubTexture name="sasha miss right0002" x="3506" y="646" width="444" height="483" frameX="0" frameY="-17" frameWidth="444" frameHeight="503"/>
+	<SubTexture name="sasha miss up0000" x="2488" y="1179" width="414" height="569" frameX="-11" frameY="-15" frameWidth="415" frameHeight="579"/>
+	<SubTexture name="sasha miss up0001" x="10" y="1179" width="400" height="586" frameX="-8" frameY="0" frameWidth="425" frameHeight="587"/>
+	<SubTexture name="sasha miss up0002" x="420" y="1179" width="417" height="584" frameX="0" frameY="-3" frameWidth="425" frameHeight="587"/>
+	<SubTexture name="sasha right0000" x="847" y="1179" width="429" height="501" frameX="0" frameY="-15" frameWidth="429" frameHeight="520"/>
+	<SubTexture name="sasha right0001" x="1286" y="1179" width="395" height="516" frameX="-12" frameY="-4" frameWidth="429" frameHeight="520"/>
+	<SubTexture name="sasha right0002" x="1691" y="1179" width="384" height="520" frameX="-12" frameY="0" frameWidth="429" frameHeight="520"/>
+	<SubTexture name="sasha right0003" x="2085" y="1179" width="393" height="520" frameX="-12" frameY="0" frameWidth="429" frameHeight="520"/>
+	<SubTexture name="sasha up0000" x="2488" y="1179" width="414" height="569" frameX="-1" frameY="-9" frameWidth="415" frameHeight="579"/>
+	<SubTexture name="sasha up0001" x="2912" y="1179" width="410" height="570" frameX="-1" frameY="-9" frameWidth="415" frameHeight="579"/>
+	<SubTexture name="sasha up0002" x="3332" y="1179" width="398" height="579" frameX="0" frameY="0" frameWidth="415" frameHeight="579"/>
+</TextureAtlas>

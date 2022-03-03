@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "amity",
+			"boxState": "normal",
+			"expression": "bored",
+			"text": "so, i'm still unsure on all this 'crypto' stuff"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "amity",
+			"boxState": "normal",
+			"expression": "bored",
+			"text": "but you certainly explained it better than Luz"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sasha",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "ofc bestie oomfie thats what besties are for!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "freddy",
+			"boxState": "normal",
+			"expression": "wave",
+			"text": "that's not the cawthon way !!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "amity",
+			"boxState": "normal",
+			"expression": "bitch",
+			"text": "???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sasha",
+			"boxState": "normal",
+			"expression": "condescending",
+			"text": "i'm sorry what."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "freddy",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "these bears will scare the homosexuality off of your pizzas!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "amity",
+			"boxState": "normal",
+			"expression": "bored",
+			"text": "we're not dating"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "freddy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "when you wake up, just remember, girlfriends are temporary"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "amity",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "is this that 'homophobia' you were telling me about?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sasha",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "yeah some people just  get their panties in a wad over 2 women kissing"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "amity",
+			"boxState": "normal",
+			"expression": "insane",
+			"text": "lmaooooooooooo what if we kissed rn to anger him luz wouldnt mind"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "freddy",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "SHUT THE  FUCK UP  LIBERALS  !!!!!!!!"
+		}
+	]
+}

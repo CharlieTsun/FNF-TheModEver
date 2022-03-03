@@ -1,0 +1,123 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CharlieIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CharlieLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CharlieDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				29
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "CharlieUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "CharlieLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "CharlieDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				29
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "CharlieUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "CharlieRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "CharlieRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Charlie Squid Game Assets",
+	"position": [
+		0,
+		0
+	],
+	"is_player": false,
+	"healthicon": "charlie",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		0,
+		96
+	],
+	"camera_position": [
+		-120,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 0.0001
+}

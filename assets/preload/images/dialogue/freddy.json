@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		270,
+		150
+	],
+	"scale": 2.2,
+	"animations": [
+		{
+			"loop_name": "bored",
+			"idle_offsets": [
+				-20,
+				10
+			],
+			"idle_name": "bored",
+			"anim": "bored",
+			"loop_offsets": [
+				-20,
+				10
+			]
+		},
+		{
+			"loop_name": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "angry",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "idle",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "idle",
+			"anim": "idle",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "wave",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "wave",
+			"anim": "wave",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "freddy portraits"
+}

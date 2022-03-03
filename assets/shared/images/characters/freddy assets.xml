@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="freddy assets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FREDDDDDDDDDY FASTBEAR0000" x="10" y="10" width="619" height="909"/>
+	<SubTexture name="FREDDDDDDDDDY FASTBEAR0001" x="639" y="10" width="619" height="909"/>
+	<SubTexture name="FREDDDDDDDDDY FASTBEAR0002" x="1268" y="10" width="619" height="909"/>
+	<SubTexture name="FREDDDDDDDDDY FASTBEAR0003" x="1897" y="10" width="619" height="909"/>
+	<SubTexture name="FREDDDDDDDDDY FASTBEAR0004" x="2526" y="10" width="619" height="909"/>
+	<SubTexture name="FREDDDDDDDDDY FASTBEAR0005" x="3155" y="10" width="619" height="909"/>
+	<SubTexture name="Freddy Down0000" x="10" y="929" width="619" height="909"/>
+	<SubTexture name="Freddy Down0001" x="639" y="929" width="619" height="909"/>
+	<SubTexture name="Freddy Down0002" x="1268" y="929" width="619" height="909"/>
+	<SubTexture name="Freddy Down0003" x="1897" y="929" width="619" height="909"/>
+	<SubTexture name="Freddy Down0004" x="2526" y="929" width="619" height="909"/>
+	<SubTexture name="Freddy Left0000" x="3155" y="929" width="619" height="909"/>
+	<SubTexture name="Freddy Left0001" x="10" y="1848" width="619" height="909"/>
+	<SubTexture name="Freddy Left0002" x="639" y="1848" width="619" height="909"/>
+	<SubTexture name="Freddy Right0000" x="1268" y="1848" width="619" height="909"/>
+	<SubTexture name="Freddy Right0001" x="1897" y="1848" width="619" height="909"/>
+	<SubTexture name="Freddy Right0002" x="2526" y="1848" width="619" height="909"/>
+	<SubTexture name="Freddy Up0000" x="3155" y="1848" width="619" height="909"/>
+	<SubTexture name="Freddy Up0001" x="10" y="2767" width="619" height="909"/>
+	<SubTexture name="Freddy Up0002" x="639" y="2767" width="619" height="909"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="amity portraits.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bitch0000" x="10" y="10" width="138" height="389"/>
+	<SubTexture name="bored0000" x="158" y="10" width="138" height="396"/>
+	<SubTexture name="insane0000" x="306" y="10" width="156" height="413"/>
+	<SubTexture name="smug0000" x="472" y="10" width="139" height="396"/>
+</TextureAtlas>

@@ -395,6 +395,7 @@ class CharacterEditorState extends MusicBeatState
 			],
 			"healthicon": "face",
 			"flip_x": false,
+			"is_player": false,
 			"healthbar_colors": [
 				161,
 				161,
@@ -465,6 +466,7 @@ class CharacterEditorState extends MusicBeatState
 				character.jsonScale = parsedJson.scale;
 				character.noAntialiasing = parsedJson.no_antialiasing;
 				character.originalFlipX = parsedJson.flip_x;
+				character.isPlayer = parsedJson.is_player;
 				character.healthIcon = parsedJson.healthicon;
 				character.healthColorArray = parsedJson.healthbar_colors;
 				character.setPosition(character.positionArray[0] + OFFSET_X + 100, character.positionArray[1]);
@@ -1284,6 +1286,7 @@ class CharacterEditorState extends MusicBeatState
 			"camera_position": char.cameraPosition,
 		
 			"flip_x": char.originalFlipX,
+			"is_player": char.isPlayer,
 			"no_antialiasing": char.noAntialiasing,
 			"healthbar_colors": char.healthColorArray
 		};

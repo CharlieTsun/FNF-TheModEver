@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "sasha",
+			"boxState": "normal",
+			"expression": "amity",
+			"text": "luz wasnt lying when she said that amussy hit hard"
+		},
+		{
+			"speed": 0.14,
+			"portrait": "amity",
+			"boxState": "normal",
+			"expression": "bored",
+			"text": "what"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "freddy",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "you guys didnt even have sex what the fuck"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sasha",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "yeah but its funny to put 'ussy' at the end of words"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "amity",
+			"boxState": "normal",
+			"expression": "bitch",
+			"text": "i will never understand human slang"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "freddy",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "IDC  SHUTT  THE FUCKUp LIBERALS   !!!!!!"
+		}
+	]
+}

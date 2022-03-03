@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="freddy portraits.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="10" y="10" width="382" height="555"/>
+	<SubTexture name="bored0000" x="402" y="10" width="313" height="570"/>
+	<SubTexture name="idle0000" x="725" y="10" width="329" height="561"/>
+	<SubTexture name="wave0000" x="1064" y="10" width="327" height="565"/>
+</TextureAtlas>

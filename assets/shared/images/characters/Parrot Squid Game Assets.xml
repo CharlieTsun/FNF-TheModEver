@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Parrot Squid Game Assets.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ParrotDown0000" x="10" y="10" width="429" height="259" frameX="-7" frameY="0" frameWidth="436" frameHeight="262"/>
+	<SubTexture name="ParrotDown0001" x="10" y="10" width="429" height="259" frameX="-7" frameY="0" frameWidth="436" frameHeight="262"/>
+	<SubTexture name="ParrotDown0002" x="449" y="10" width="436" height="260" frameX="0" frameY="-2" frameWidth="436" frameHeight="262"/>
+	<SubTexture name="ParrotDown0003" x="449" y="10" width="436" height="260" frameX="0" frameY="-2" frameWidth="436" frameHeight="262"/>
+	<SubTexture name="ParrotIdle0000" x="895" y="10" width="460" height="235" frameX="0" frameY="-26" frameWidth="460" frameHeight="261"/>
+	<SubTexture name="ParrotIdle0001" x="895" y="10" width="460" height="235" frameX="0" frameY="-26" frameWidth="460" frameHeight="261"/>
+	<SubTexture name="ParrotIdle0002" x="1365" y="10" width="448" height="249" frameX="-8" frameY="-12" frameWidth="460" frameHeight="261"/>
+	<SubTexture name="ParrotIdle0003" x="1365" y="10" width="448" height="249" frameX="-8" frameY="-12" frameWidth="460" frameHeight="261"/>
+	<SubTexture name="ParrotIdle0004" x="10" y="280" width="438" height="260" frameX="-15" frameY="0" frameWidth="460" frameHeight="261"/>
+	<SubTexture name="ParrotIdle0005" x="458" y="280" width="438" height="255" frameX="-15" frameY="-5" frameWidth="460" frameHeight="261"/>
+	<SubTexture name="ParrotIdle0006" x="906" y="280" width="437" height="253" frameX="-15" frameY="-7" frameWidth="460" frameHeight="261"/>
+	<SubTexture name="ParrotIdle0007" x="906" y="280" width="437" height="253" frameX="-15" frameY="-7" frameWidth="460" frameHeight="261"/>
+	<SubTexture name="ParrotLeft0000" x="1353" y="280" width="444" height="258" frameX="-14" frameY="-11" frameWidth="458" frameHeight="269"/>
+	<SubTexture name="ParrotLeft0001" x="1353" y="280" width="444" height="258" frameX="-14" frameY="-11" frameWidth="458" frameHeight="269"/>
+	<SubTexture name="ParrotLeft0002" x="10" y="550" width="448" height="269" frameX="0" frameY="0" frameWidth="458" frameHeight="269"/>
+	<SubTexture name="ParrotLeft0003" x="10" y="550" width="448" height="269" frameX="0" frameY="0" frameWidth="458" frameHeight="269"/>
+	<SubTexture name="ParrotRight0000" x="468" y="550" width="415" height="253" frameX="0" frameY="0" frameWidth="425" frameHeight="253"/>
+	<SubTexture name="ParrotRight0001" x="468" y="550" width="415" height="253" frameX="0" frameY="0" frameWidth="425" frameHeight="253"/>
+	<SubTexture name="ParrotRight0002" x="893" y="550" width="401" height="253" frameX="-24" frameY="0" frameWidth="425" frameHeight="253"/>
+	<SubTexture name="ParrotRight0003" x="893" y="550" width="401" height="253" frameX="-24" frameY="0" frameWidth="425" frameHeight="253"/>
+	<SubTexture name="ParrotUp0000" x="1304" y="550" width="417" height="278" frameX="0" frameY="-22" frameWidth="417" frameHeight="300"/>
+	<SubTexture name="ParrotUp0001" x="1304" y="550" width="417" height="278" frameX="0" frameY="-22" frameWidth="417" frameHeight="300"/>
+	<SubTexture name="ParrotUp0002" x="10" y="838" width="407" height="300" frameX="-4" frameY="0" frameWidth="417" frameHeight="300"/>
+	<SubTexture name="ParrotUp0003" x="10" y="838" width="407" height="300" frameX="-4" frameY="0" frameWidth="417" frameHeight="300"/>
+</TextureAtlas>

@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "freddy",
+			"boxState": "normal",
+			"expression": "wave",
+			"text": "thats it"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "freddy",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "i'm about to unleash my ultimate homophobia"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "freddy",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "TAKE   THIS   LIBERALS   !!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sasha",
+			"boxState": "normal",
+			"expression": "amity",
+			"text": "twiter wont like you saying homophobic shit yknow"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "freddy",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "GRAAAAAHHHH  I DONT CARE !!!!!!!!!!"
+		}
+	]
+}

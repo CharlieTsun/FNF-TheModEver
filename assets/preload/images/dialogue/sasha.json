@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-50,
+		150
+	],
+	"scale": 2.2,
+	"animations": [
+		{
+			"loop_name": "idle",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "idle",
+			"anim": "idle",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "amity",
+			"idle_offsets": [
+				0,
+				10
+			],
+			"idle_name": "amity",
+			"anim": "amity",
+			"loop_offsets": [
+				0,
+				10
+			]
+		},
+		{
+			"loop_name": "condescending",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "condescending",
+			"anim": "condescending",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "smug",
+			"idle_offsets": [
+				0,
+				38
+			],
+			"idle_name": "smug",
+			"anim": "smug",
+			"loop_offsets": [
+				0,
+				38
+			]
+		},
+		{
+			"loop_name": "angry",
+			"idle_offsets": [
+				30,
+				20
+			],
+			"idle_name": "angry",
+			"anim": "angry",
+			"loop_offsets": [
+				30,
+				20
+			]
+		}
+	],
+	"image": "sasha portraits"
+}

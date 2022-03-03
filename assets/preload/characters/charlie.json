@@ -1,0 +1,156 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sasha idle"
+		},
+		{
+			"offsets": [
+				94,
+				-95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sasha left"
+		},
+		{
+			"offsets": [
+				40,
+				-81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sasha down"
+		},
+		{
+			"offsets": [
+				51,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sasha up"
+		},
+		{
+			"offsets": [
+				22,
+				-107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sasha right"
+		},
+		{
+			"offsets": [
+				147,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "sasha miss left"
+		},
+		{
+			"offsets": [
+				28,
+				-89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "sasha miss down"
+		},
+		{
+			"offsets": [
+				54,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "sasha miss up"
+		},
+		{
+			"offsets": [
+				18,
+				-118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "sasha miss right"
+		},
+		{
+			"offsets": [
+				-52,
+				-201
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "sasha body"
+		},
+		{
+			"offsets": [
+				-52,
+				-201
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "sasha body"
+		},
+		{
+			"offsets": [
+				-52,
+				-201
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "sasha body"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/charlie assets",
+	"position": [
+		0,
+		0
+	],
+	"is_player": true,
+	"healthicon": "charlie",
+	"flip_x": true,
+	"healthbar_colors": [
+		204,
+		0,
+		96
+	],
+	"camera_position": [
+		-120,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 0.0001
+}

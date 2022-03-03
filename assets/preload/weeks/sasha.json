@@ -1,0 +1,44 @@
+{
+	"storyName": "political propaganda",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "sasha",
+	"weekBefore": "week 1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Homophobia",
+			"freddy",
+			[
+				142,
+				102,
+				75
+			]
+		],
+		[
+			"Fazbright",
+			"freddy",
+			[
+				142,
+				102,
+				75
+			]
+		],
+		[
+			"Twiter",
+			"freddy",
+			[
+				142,
+				102,
+				75
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Sasha"
+}
